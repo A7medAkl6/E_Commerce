@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "taJM1BXBVgd/brs79piNbfKUV1HbVAetcDqNDeiTIPc=",
+  "Source": "TestRESTAPI",
+  "BasePath": "_content/TestRESTAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
